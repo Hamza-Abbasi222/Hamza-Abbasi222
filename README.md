@@ -1,2 +1,21 @@
-# Hamza-Abbasi222
-This repository serves as a curated collection of information about my educational background, professional experience, projects, achievements, skills in machine learning, data analysis, and electrical engineering.
+![logo](https://github.com/HamzaAbbasi222/Hamza-Abbasi222/blob/main/Linkedin%20Banner.jpg)
+<h1 align="center">Hi 👋, I'm Hamza Ishtiq</h1>
+<h3 align="center">🔍 Passionate about developing advanced algorithms with Python (Sci-Kit, TensorFlow, Keras). Skilled in data analysis, visualization, and engineering. Currently pursuing MS in Electrical (Machine Learning) at National University of Modern Languages.</h3>
+<img align="right" alt="ML Engineering" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetsensibill.com%2Fblog%2Fmachine-learning-receipts-2&psig=AOvVaw3VZVP-u8QTatsG-AotWmrF&ust=1703523441172000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCtqMTFqIMDFQAAAAAdAAAAABAI" >
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaabbasi222" alt="hamzaabbasi222" /></a> </p>
+
+- 🔭 I’m currently working on Thesis **Identification of Cyber Attacks on IoT**
+
+- 🌱 I’m currently learning **Python, Machine Learning, SciKit, TensorFlow, KerasFlask,**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamza-ishtiaq-2919297b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-ishtiaq-2919297b/" height="30" width="40" /></a>
+<a href="https://fb.com/hamzaabbasi222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamzaabbasi222" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaabbasi222&show_icons=true&locale=en&layout=compact" alt="hamzaabbasi222" /></p>
