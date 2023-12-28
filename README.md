@@ -1,6 +1,6 @@
 ![logo](https://github.com/HamzaAbbasi222/Hamza-Abbasi222/blob/main/Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Hamza Ishtiq</h1>
-<h3 align="center">🔍 Passionate about developing advanced algorithms with Python (Sci-Kit, TensorFlow, Keras). Skilled in data analysis, visualization, and engineering. Currently pursuing MS in Electrical (Machine Learning) at National University of Modern Languages.</h3>
+<h3 align="center">🔍 Passionate about developing advanced algorithms with Python (Sci-Kit, TensorFlow, Keras). Skilled in data analysis, visualization, and engineering. Currently pursuing an MS in Electrical (Machine Learning) at National University of Modern Languages, focusing on identifying cyber attacks on the Internet of Things using machine learning for my thesis. .</h3>
 <img align="right" alt="ML Engineering" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetsensibill.com%2Fblog%2Fmachine-learning-receipts-2&psig=AOvVaw3VZVP-u8QTatsG-AotWmrF&ust=1703523441172000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCtqMTFqIMDFQAAAAAdAAAAABAI" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaabbasi222" alt="hamzaabbasi222" /></a> </p>
