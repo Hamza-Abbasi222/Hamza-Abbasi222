@@ -3,7 +3,7 @@
 <h3 align="center">🔍 Electrical scholar with a master's degree specializing in Machine Learning from the National University of Modern Languages. Passionate about developing advanced algorithms using Python (Sci-Kit, TensorFlow, Keras) and skilled in data analysis, visualization, and engineering. Recently completed a research thesis on the classification of Cyber attacks on IoT using Machine learning. .</h3>
 <img align="right" alt="ML Engineering" width="400" src="https://media.licdn.com/dms/image/C4D12AQEBCs_XqJplUg/article-cover_image-shrink_600_2000/0/1640013765739?e=2147483647&v=beta&t=e6JMCkuMnz-zy_ybbz3VQyh5vKuua64IVhaoF8RG91U" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/D4D03AQFtyIpSxsuL0w/profile-displayphoto-shrink_200_200/0/1704897700257?e=1718841600&v=beta&t=LKQn61fWZqN-N5MP8ebbz1O1GqlDFVtQg1ZCLZC-Vp0" alt="hamzaabbasi222" /></a> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D03AQFtyIpSxsuL0w/profile-displayphoto-shrink_200_200/0/1704897700257?e=1718841600&v=beta&t=LKQn61fWZqN-N5MP8ebbz1O1GqlDFVtQg1ZCLZC-Vp0" alt="hamzaabbasi222" /></a> </p> </n>
 
 - 🔭 Research Article **Classification of Cyber Attacks on Internet of Things Using Machine Learning**
 
