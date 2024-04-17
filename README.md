@@ -1,9 +1,9 @@
 ![logo](https://github.com/HamzaAbbasi222/Hamza-Abbasi222/blob/main/Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Hamza Ishtiq</h1>
 <h3 align="center">🔍 Passionate about developing advanced algorithms with Python (Sci-Kit, TensorFlow, Keras). Skilled in data analysis, visualization, and engineering. Currently pursuing an MS in Electrical (Machine Learning) at National University of Modern Languages, focusing on the Classification of cyber attacks on the Internet of Things using machine learning for my thesis. .</h3>
-<img align="right" alt="ML Engineering" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetsensibill.com%2Fblog%2Fmachine-learning-receipts-2&psig=AOvVaw3VZVP-u8QTatsG-AotWmrF&ust=1703523441172000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCtqMTFqIMDFQAAAAAdAAAAABAI" >
+<img align="right" alt="ML Engineering" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F14-things-you-need-know-become-machine-learning-ai-ronald-van-loon&psig=AOvVaw0xX_UJNf68yNW7zFxpjfYH&ust=1713427588177000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCYxKblyIUDFQAAAAAdAAAAABAE" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaabbasi222" alt="hamzaabbasi222" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/D4D03AQFtyIpSxsuL0w/profile-displayphoto-shrink_200_200/0/1704897700257?e=1718841600&v=beta&t=LKQn61fWZqN-N5MP8ebbz1O1GqlDFVtQg1ZCLZC-Vp0" alt="hamzaabbasi222" /></a> </p>
 
 - 🔭 I’m currently working on Thesis **Classification of Cyber Attacks on Internet of Things Using Machine Learning**
 
