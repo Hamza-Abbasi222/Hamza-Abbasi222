@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaabbasi222" alt="hamzaabbasi222" /></a> </p>
 
-- 🔭 I’m currently working on Thesis **Identification of Cyber Attacks on Internet of Things Using Machine Learning**
+- 🔭 I’m currently working on Thesis **Classification of Cyber Attacks on Internet of Things Using Machine Learning**
 
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, SciKit, TensorFlow, Keras, SeaBorn, Flask**
 
